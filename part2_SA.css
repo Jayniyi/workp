@@ -1,0 +1,56 @@
+*{
+    padding: 0%;
+    margin: auto;
+    box-sizing: border-box;
+}
+.table{
+    background-color: yellow;
+    padding: 2rem;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid aqua;
+width: 55%;
+}
+.table h1{
+    text-decoration: underline;
+}
+table, th, td {
+    border: 2px solid green;
+    padding:10px;
+    border-collapse: collapse;
+
+}
+.mon{
+    background-color: blue;
+}
+.mon7{
+    background-color: red;
+}
+.mon5{
+    background-color: chartreuse;
+}
+.mon4{
+    background-color: orange;
+}
+.mon8{
+    background-color: aquamarine;
+}
+.mon3{
+    background-color: bisque;
+}
+.mon1
+{
+    background-color: chocolate;
+}
+.mon9{
+    background-color: cornflowerblue;
+}
+th{
+    background-color: gray;
+}
+.mon2{
+    background-color: fuchsia;
+}
+.text{
+    width: 62%;
+}
